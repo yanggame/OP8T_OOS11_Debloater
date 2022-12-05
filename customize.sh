@@ -137,7 +137,7 @@ REPLACE="
 /system/system_ext/app/OPEngMode
 /system/system_ext/app/OPFilemanager
 /system/system_ext/app/OPGeoIpTime
-/system_ext/app/OPGamingSpace
+/system/system_ext/app/OPGamingSpace
 /system/system_ext/app/OPLiveWallpaper
 /system/system_ext/app/OPMinidumpOptimization
 /system/system_ext/app/OPOnlineConfig
